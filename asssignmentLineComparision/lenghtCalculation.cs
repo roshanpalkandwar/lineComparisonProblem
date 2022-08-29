@@ -28,6 +28,7 @@ namespace asssignmentLineComparision
             double tem4 = Math.Pow((b2 - b1), 2);
             double lenght2 = Math.Sqrt(tem3 + tem4);
             Console.WriteLine("the co-ordinate length2 is  "+lenght2);
+           
 
         } 
         
